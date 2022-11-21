@@ -3,8 +3,8 @@
 <!-- **paoloCammardella/paoloCammardella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## 🔭 New things I'm learning:
   - <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Atmel_logo.svg/1200px-Atmel_logo.svg.png width="24" height="24" /> AVR architecture.
-  - <img src=https://uncommonsolutions.com/wp-content/uploads/2018/12/Microsoft-Docker-logo.png width="16" height="16" /> Docker.
-  - <img src=https://dwglogo.com/wp-content/uploads/2017/12/Spring_Framework_logo_01.png width="16" height="16" /> Spring.
+  - <img src=https://uncommonsolutions.com/wp-content/uploads/2018/12/Microsoft-Docker-logo.png width="16" height="32" /> Docker.
+  - <img src=https://dwglogo.com/wp-content/uploads/2017/12/Spring_Framework_logo_01.png width="24" height="24" /> Spring.
   - <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/687px-Android_logo_2019_%28stacked%29.svg.png width="16" height="16"/> Android App development.
  
 ## <img src=https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png width="32" height="32"/> Languages I'm improving:
