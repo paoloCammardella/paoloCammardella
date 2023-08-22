@@ -1,4 +1,5 @@
-<h2 align="left">Hi! My name is Paolo and I'm a computer science student, from Naples, Italy</h2>
+# About me
+Hi!, I'm Paolo, a computer science student from Naples, Italy.
 
 <br clear="both">
 
