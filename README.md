@@ -1,8 +1,7 @@
 <h2 align="left">Hi! My name is Paolo and I'm a computer science student, from Naples, Italy</h2>
 
-###
-
 <br clear="both">
+
 ## Tech stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
