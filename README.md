@@ -1,5 +1,15 @@
 # About me
-Hi!, I'm Paolo, a computer science student from Naples, Italy.
+Paolo Cammardella is an adaptable Software Engineer and MSc AI & Robotics candidate at the University of Naples Federico II. With a technical foundation in BSc Computer Science , he specializes in building full-stack applications using React, Python, TypeScript, and Java. His background is defined by a blend of technical execution and collaborative coordination, recently demonstrated in his role as Developer and Tester for the "Flow" project. In this initiative focused on smart-charging infrastructure for electric vehicles, Paolo’s contributions to data collection and system testing are currently supporting promising results in green-tech efficiency.
+
+Beyond core development, Paolo has demonstrated the maturity to coordinate complex technical tasks in international environments. He has successfully mentored and guided multiple student teams on IoT and AI initiatives, including the "Smart Bin" project for Creative Ireland, where he managed technical deadlines and provided architectural advice. His ability to operate globally, highlighted by his participation in a youth development project in Bosnia, allows him to combine academic expertise with the communication skills necessary to bridge the gap between technical execution and project goals.
+## 🚀 Featured Projects
+
+- SmuP_OO2020: A Java-based music player emphasizing clean MVC architecture and OOP principles.
+
+## ⚡ Highlighted Initiatives
+- Flow Project: Smart-charging infrastructure for EVs. Focused on high-efficiency data collection and system testing.
+
+- Smart Bin (Creative Ireland): An IoT & AI-driven waste management system. Acted as Technical Lead and Mentor for student teams.
 
 <br clear="both">
 
@@ -42,7 +52,23 @@ Hi!, I'm Paolo, a computer science student from Naples, Italy.
 
 ## Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paoloCammardella&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paoloCammardella&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=paoloCammardella&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoloCammardella&layout=compact&theme=dracula&hide_border=true" width="48%" />
+</div>
+### 📊 Weekly Coding Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paoloCammardella&theme=dracula&area=true&hide_border=true" width="100%" alt="Paolo's Activity Graph" />
+</div>
+
+## 🎯 Current Focus
+<> - 🎓 **Master's Thesis**: Researching at University of Naples Federico II.
+- ⚡ **Learning**: Path Planning and Reinforcement Learning.
+- 🛠️ **Hobby Project**: Improving the `webots_ros2` integration for mobile robots.
+
+## 📫 Connect with me
+
+<div align="center">
+<a href="https://linkedin.com/in/paolocammardella"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:paolo.cammardella@gmail"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
