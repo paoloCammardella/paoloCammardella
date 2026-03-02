@@ -3,13 +3,13 @@ Paolo Cammardella is an adaptable Software Engineer and MSc AI & Robotics candid
 
 Beyond core development, Paolo has demonstrated the maturity to coordinate complex technical tasks in international environments. He has successfully mentored and guided multiple student teams on IoT and AI initiatives, including the "Smart Bin" project for Creative Ireland, where he managed technical deadlines and provided architectural advice. His ability to operate globally, highlighted by his participation in a youth development project in Bosnia, allows him to combine academic expertise with the communication skills necessary to bridge the gap between technical execution and project goals.
 ## 🚀 Featured Projects
-
-- SmuP_OO2020: A Java-based music player emphasizing clean MVC architecture and OOP principles.
+- *Hive Mind*: A TypeScript-based social media where you can share you're ideas and see what other people thinks about it.
+- *Intelligent Robotics*: _ROS2_ and _Webots_ based multi-robot cooperation project.
+- *SmuP_OO2020*: A Java-based music player emphasizing clean MVC architecture and OOP principles.
 
 ## ⚡ Highlighted Initiatives
-- Flow Project: Smart-charging infrastructure for EVs. Focused on high-efficiency data collection and system testing.
-
-- Smart Bin (Creative Ireland): An IoT & AI-driven waste management system. Acted as Technical Lead and Mentor for student teams.
+- *Flow Project*: Smart-charging infrastructure for EVs. Focused on high-efficiency data collection and system testing.
+- *Smart Bin (Creative Ireland)*: An IoT & AI-driven waste management system. Acted as Technical Lead and Mentor for student teams.
 
 <br clear="both">
 
@@ -50,18 +50,13 @@ Beyond core development, Paolo has demonstrated the maturity to coordinate compl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-## Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=paoloCammardella&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoloCammardella&layout=compact&theme=dracula&hide_border=true" width="48%" />
-</div>
 ### 📊 Weekly Coding Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=paoloCammardella&theme=dracula&area=true&hide_border=true" width="100%" alt="Paolo's Activity Graph" />
 </div>
 
 ## 🎯 Current Focus
-<> - 🎓 **Master's Thesis**: Researching at University of Naples Federico II.
+[comment]: <> - 🎓 **Master's Thesis**: Researching at University of Naples Federico II.
 - ⚡ **Learning**: Path Planning and Reinforcement Learning.
 - 🛠️ **Hobby Project**: Improving the `webots_ros2` integration for mobile robots.
 
