@@ -1,7 +1,8 @@
 # About me
-Paolo Cammardella is an adaptable Software Engineer and MSc AI & Robotics candidate at the University of Naples Federico II. With a technical foundation in BSc Computer Science , he specializes in building full-stack applications using React, Python, TypeScript, and Java. His background is defined by a blend of technical execution and collaborative coordination, recently demonstrated in his role as Developer and Tester for the "Flow" project. In this initiative focused on smart-charging infrastructure for electric vehicles, Paolo’s contributions to data collection and system testing are currently supporting promising results in green-tech efficiency.
+Paolo Cammardella is an ``adaptable Software Engineer`` and ``MSc AI & Robotics candidate at the University of Naples Federico II``. With a technical foundation in BSc Computer Science , he specializes in building full-stack applications using React, Python, TypeScript, and Java. His background is defined by a blend of technical execution and collaborative coordination, recently demonstrated in his role as Developer and Tester for the "Flow" project. In this initiative focused on smart-charging infrastructure for electric vehicles, Paolo’s contributions to data collection and system testing are currently supporting promising results in green-tech efficiency.
 
-Beyond core development, Paolo has demonstrated the maturity to coordinate complex technical tasks in international environments. He has successfully mentored and guided multiple student teams on IoT and AI initiatives, including the "Smart Bin" project for Creative Ireland, where he managed technical deadlines and provided architectural advice. His ability to operate globally, highlighted by his participation in a youth development project in Bosnia, allows him to combine academic expertise with the communication skills necessary to bridge the gap between technical execution and project goals.
+Beyond core development, Paolo has demonstrated the maturity to coordinate complex technical tasks in international environments. He has successfully ``mentored and guided multiple student teams`` on IoT and AI initiatives, including the "Smart Bin" project for Creative Ireland, where he managed technical deadlines and provided architectural advice. His ability to operate globally, highlighted by his participation in a youth development project in Bosnia, allows him to combine academic expertise with the communication skills necessary to bridge the gap between technical execution and project goals.
+
 ## 🚀 Featured Projects
 - *Hive Mind*: A TypeScript-based social media where you can share you're ideas and see what other people thinks about it.
 - *Intelligent Robotics*: _ROS2_ and _Webots_ based multi-robot cooperation project.
@@ -56,9 +57,11 @@ Beyond core development, Paolo has demonstrated the maturity to coordinate compl
 </div>
 
 ## 🎯 Current Focus
-[comment]: <> - 🎓 **Master's Thesis**: Researching at University of Naples Federico II.
 - ⚡ **Learning**: Path Planning and Reinforcement Learning.
 - 🛠️ **Hobby Project**: Improving the `webots_ros2` integration for mobile robots.
+
+<!-- ## Future Projects
+` 🎓 **Master's Thesis**: My thesis will focus on Cooperative robotics. -->
 
 ## 📫 Connect with me
 
